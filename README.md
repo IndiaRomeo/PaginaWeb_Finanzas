@@ -2,9 +2,11 @@
  Sistema de finanzas básico en php.
  
  Index
+ <br/>
 ![web1](https://user-images.githubusercontent.com/51472293/207715307-a7f14e9f-cc65-442b-870e-c73390853a1e.png)
 
 Simulador de crédito
+<br/>
 ![web2](https://user-images.githubusercontent.com/51472293/207715786-ca81c407-27de-4aae-9e80-c7cf1e761f47.png)
 
 Perfil del cliente
